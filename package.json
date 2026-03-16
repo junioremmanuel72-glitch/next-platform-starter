@@ -11,13 +11,17 @@
   },
   "dependencies": {
     "@netlify/blobs": "^10.7.2",
+    "bcryptjs": "^3.0.3",
     "blobshape": "^1.0.0",
     "bright": "^1.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^0.577.0",
     "markdown-to-jsx": "^7.7.16",
     "next": "^16.0.8",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "unique-names-generator": "^4.7.1"
+    "unique-names-generator": "^4.7.1",
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.15",
